@@ -17,10 +17,10 @@
   👩‍💻 I am a passionate learner and I like exploring new things<br>
   ⭐ Earned Gold badge in  C++ on Hackerrank<br>
   🌱 I’m currently learning Django<br>
-  👯 Let's collaborate to create some cool projects in AI and Web Development.
+  👯 Let's collaborate to create some cool projects in AI and Web Development. <br>
    💬 Ask me about C,C++, Python, Java, HTML,CSS<br>
-   📫 How to reach me: rashmisatwal.05@gmail.com 
-  ⚡ Fun fact: I am dancer, state level gold medalist in Yoga and I just love to travel and explore new things.
+   📫 How to reach me: rashmisatwal.05@gmail.com  <br>
+  ⚡ Fun fact: I am dancer, state level gold medalist in Yoga and I just love to travel and explore new things. <br>
 </ul>
 
 <h3>Let's Connect !</h3>
